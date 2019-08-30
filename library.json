@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-ads1115",
+  "title": "ads1115",
+  "keywords": "ads1115, esp32, esp8266, arduino",
+  "description": "ads1115 plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-ads1115/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-ads1115/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
