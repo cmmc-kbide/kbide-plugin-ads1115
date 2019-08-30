@@ -6,7 +6,7 @@
 
 ## ตัวอย่างโปรแกรม  
 
-![image](https://raw.githubusercontent.com/cmmc-kbide/kbide-plugin-ads1115/master/static/exampleCode.png)
+![image](https://raw.githubusercontent.com/cmmc-kbide/kbide-plugin-ads1115/master/static/exampleCode.PNG)
 
 ## License
 Adafruit Industries
