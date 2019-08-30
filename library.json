@@ -1,9 +1,9 @@
 {
   "name" : "kbide-plugin-ads1115",
-  "title": "ads1115",
-  "keywords": "ads1115, esp32, esp8266, arduino",
+  "title": "ADS1115 Analog to Digital Convertor",
+  "keywords": "ads1115, esp32, arduino",
   "description": "ads1115 plugin for KB-IDE",
-  "category":"",
+  "category":"Sensors",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-ads1115/",
   "author": "cmmakerclub",
   "email": "",
@@ -11,7 +11,7 @@
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
-  "license": "",
+  "license": "Adafruit",
   "image" : "/static/display.png",
   "homepage": "http://www.kbide.org"
 }
